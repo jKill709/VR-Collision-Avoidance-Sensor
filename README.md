@@ -1,4 +1,4 @@
-# Wall Sensor
+# VR-Collision-Avoidance-Sensor
 
 This README describes the TARGET STATE of this repo.  The project as described is completed, but the documentation proccess is ongoing.  Until this message is removed, docouments listed as components of the repo may bve missing or otherwise missaligned.
 
@@ -22,7 +22,7 @@ Each stage includes hardware documentation, firmware, design decisions, and less
 - Final Version has on-board Li-on battery with HW-107 charging module
 
 ## Architecture Diagram
-Wall Sensor/
+VR-Collision-Avoidance-Sensor/
 │
 ├── README.md
 ├── LICENSE
