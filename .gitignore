@@ -1,8 +1,22 @@
-# Ignore all directories
-*/
+# Arduino build files
+*.hex
+*.elf
+*.eep
+*.map
+*.lss
 
-# Allow files only
-!*.png
-!*.zip
-!*.ino
-!.gitignore
+# Arduino IDE files
+.vscode/
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# KiCad / PCB editor temporary files (if added later)
+*.lck
+*.bak
+
+# Backup files
+*~
