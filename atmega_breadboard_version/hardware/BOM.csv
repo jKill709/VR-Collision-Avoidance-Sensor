@@ -1,1 +1,13 @@
-﻿Item,Qty,Reference,Value,Description,Manufacturer,Part Number,Supplier,Notes
+﻿Item,Qty,Reference,Value,Description,Part Number
+1,1,U1,,Microcontroller,Atmega328P
+2,1,X1,,Peizioelectric Oscilator,
+3,2,C1 C2,22 pF,Ceramic Capacitor,
+4,1,HC-SR04,,Ultrasonic Sensor,HC-SR04
+5,1,R1,10K Ohms,Resisitor,
+6,1,D1,5V,RGB LED,
+7,2,R2 R3,220 Ohms,Current-Limiting Resistor,
+8,1,,400 Tie-Points,Breadboard,
+9,1,Boost,3v to 5 v,Boost Converter,
+10,1,S1,,Power Switch,
+11,1,HW-107,,Battery Management Module,HW-107
+12,1,Battery,3.7 v 300 mAh,Li-ion Battery,
