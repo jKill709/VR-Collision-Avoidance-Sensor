@@ -41,7 +41,6 @@ void setup() {
   pinMode(sensorTrig, OUTPUT);
   pinMode(sensorEcho, INPUT);
 
-
   // Configure ultrasonic sensor pins
   introSeq();
     

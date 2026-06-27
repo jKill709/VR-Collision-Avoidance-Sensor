@@ -28,9 +28,6 @@ VR-Collision-Avoidance-Sensor/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-├── docs/
-│   └── overview.md
-│
 ├── arduino_version/
 │   ├── README.md
 │   ├── src/
@@ -64,19 +61,15 @@ VR-Collision-Avoidance-Sensor/
         ├── assembled2.png
         └── assembled1.png
  ```
- 
+
 
 ## Project Stages
-- Arduino Prototype
-- Breadboard Bare-Metal Implementation
-- PCB Production Version
 
-## Results / Improvements
-| Stage | Power | Size | Cost | Reliability |
-|------|------|------|------|-------------|
+See each stage's README for details:
 
-## Photos
-(critical for portfolio impact)
-
-## How to Build Each Version
-Links to subfolder READMEs
+- Arduino Prototype:  `arduino_version\README.md`
+![Arduino Prototype](arduino_version/images/assembled-front.jpg)
+- Breadboard Bare-Metal Implementation:  `atmega_breadboard_version\README.md`
+![Arduino Prototype](atmega_breadboard_version/images/assembled-front.jpg)
+- PCB Production Prototype Version:  `pcb_version\README.md`
+![Arduino Prototype](pcb_version/images/assembled-front.jpg)
