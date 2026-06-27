@@ -22,6 +22,7 @@ Each stage includes hardware documentation, firmware, design decisions, and less
 - Final Version has on-board Li-on battery with HW-107 charging module
 
 ## Architecture Diagram
+```text
 VR-Collision-Avoidance-Sensor/
 │
 ├── README.md
@@ -62,6 +63,7 @@ VR-Collision-Avoidance-Sensor/
         ├── parts.png
         ├── assembled2.png
         └── assembled1.png
+ ```
  
 
 ## Project Stages
