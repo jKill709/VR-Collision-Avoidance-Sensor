@@ -33,33 +33,37 @@ VR-Collision-Avoidance-Sensor/
 │   ├── src/
 │   │   └── Wall_Sensor_0.1.3.ino
 │   │   │
-│   └── hardware/
-│       ├── Circut_Map.png
-│       └── bom.csv
+│   ├── hardware/
+│   │   ├── Circut_Map.png
+│   │   └── bom.csv
+│   │   
+│   └── images/
+│       └── various images 
 │
 ├── atmega_breadboard_version/
 │   ├── README.md
 │   ├── firmware/
 │   │   └── BattleBuddy_S_0.1.ino
 │   │
-│   └── hardware/
-│       └── bom.csv
+│   ├── hardware/
+│   │   └── bom.csv
+│   │   
+│   └── images/
+│       └── various images 
 │   
 │
 └── pcb_version/
     ├── README.md
     ├── firmware/
     │   └── Wall_Sensor_0.2.0
-    │   │
+    │   
     ├── hardware/
-    │   ├── schematics.pdf
-    │   ├── pcb_layout.kicad_pcb (or Eagle files)
-    │   └── bom.csv
+    │   ├── bom.csv
     │   │
+    │   └── pcbway_files/
+    │       └── various manufacturing assets for PCBway.com
     └── images/
-        ├── parts.png
-        ├── assembled2.png
-        └── assembled1.png
+        └── various images 
  ```
 
 
@@ -70,6 +74,6 @@ See each stage's README for details:
 - Arduino Prototype:  `arduino_version\README.md`
 ![Arduino Prototype](arduino_version/images/assembled-front.jpg)
 - Breadboard Bare-Metal Implementation:  `atmega_breadboard_version\README.md`
-![Arduino Prototype](atmega_breadboard_version/images/assembled-front.jpg)
+![Breadboard Prototype](atmega_breadboard_version/images/assembled-front.jpg)
 - PCB Production Prototype Version:  `pcb_version\README.md`
-![Arduino Prototype](pcb_version/images/assembled-front.jpg)
+![PCB Prototype](pcb_version/images/assembled-front.jpg)

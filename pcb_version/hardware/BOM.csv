@@ -11,3 +11,7 @@
 10,1,S1,,Power Switch,
 11,1,HW-107,,Battery Management Module,HW-107
 12,1,Battery,3.7 v 300 mAh,Li-ion Battery,
+13,2,J1 J2,2.45mm 2x1,Header Pins,
+14,1,J3,2.45mm 3x1,Header Pins,
+15,1,,2.45mm 2x1,Male Dupont Connector w/ Pins,
+16,1,,2.45mm 3x1,Male Dupont Connector w/ Pins,
